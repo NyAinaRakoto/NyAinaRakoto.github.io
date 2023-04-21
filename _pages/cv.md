@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Agronomy Engineering, Forestry and Environment, 2016
-* Master 2 in Agronomy Engineering, Environment-Territory and Development, 2018
-* M.Sc. in Environmental Engineering, Soil and Water Conservation, 2020
-* Ph.D in Geography, Remote sensing, present 
+* B.S. in Agronomy Engineering, Forestry and Environment - Ecole Superieure des Sciences Agronomiques, Madagascar, 2016
+* Master 2 in Agronomy Engineering, Environment-Territory and Development - Ecole Superieure des Sciences Agronomiques, Madagascar, 2018
+* M.Sc. in Environmental Engineering, Soil and Water Conservation - Szent Istvan University, Hungary, 2020
+* Ph.D in Geography, Remote sensing - Oklahoma State University, Stillwater, Oklahoma, present 
   
 Peer-reviewed publications 
 ======
