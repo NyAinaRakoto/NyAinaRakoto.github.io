@@ -23,6 +23,6 @@ redirect_from:
 
 
 * The Delores and Jerry Etter Graduate Research Scholarship administered at the Tulsa Community Foundation, 2021
-* Food and Agriculture Organization (FAO) Scholarship with the Ministry of Agriculture of Hungary, 2018–2020
-* First wave of English Access Microscholarship Program administered by the US Embassy in Madagascar, 2010–2012
+* Food and Agriculture Organization (FAO) Scholarship with the Ministry of Agriculture of Hungary, 2018–20
+* First wave of English Access Microscholarship Program administered by the US Embassy in Madagascar, 2010–12
 
