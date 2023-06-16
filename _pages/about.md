@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website! "
+title: "Welcome!!! "
 excerpt: 
 author_profile: true
 redirect_from: 
@@ -15,5 +15,5 @@ I am a Ph.D. student in Geography at Oklahoma State University, working with [Dr
 
 My current research project involves leveraging remote sensing techniques to address the challenges posed by invasive grassland plants. By using remote sensing, I aim to advance biological invasions study, which will ultimately contribute to providing actionable information for managing invasive plants and maintaining ecosystem functioning. 
 
-My contact: ny_aina.rakotoarivony@okstate.edu
+I am always open to collaborations and/or just discussions, so please feel free to reach out to me at ny_aina.rakotoarivony@okstate.edu
 
