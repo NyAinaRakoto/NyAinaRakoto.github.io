@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ny Aina M. Rakotoarivony / Ph.D. student"
+title                    : "M. Ny Aina Rakotoarivony / Ph.D. student"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ny Aina Minoarimanana Rakotoarivony"
+  name             : "Minoarimanana Ny Aina Rakotoarivony"
   avatar           : "IMAGE_ME_FIELD.PNG"
   bio              : ""
   location         : "Oklahoma State University"
