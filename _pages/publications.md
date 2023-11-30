@@ -8,7 +8,7 @@ author_profile: true
 
 Peer-reviewed publications 
 ======
-* Rakotoarivony, M.N.A., Gholizadeh, H., Hammond, W. M., Hassani, K., Joshi, O., Hamilton, R. G., ... & Adams, H. D. (2023). Detecting the invasive Lespedeza cuneata in grasslands using commercial small satellite imagery. International Journal of Remote Sensing, 44(21), 6802-6824. [https//doi.org/10.1080/01431161.2023.2275321](https//doi.org/10.1080/01431161.2023.2275321)
+* Rakotoarivony, M.N.A., Gholizadeh, H., Hammond, W. M., Hassani, K., Joshi, O., Hamilton, R. G., ... & Adams, H. D. (2023). Detecting the invasive Lespedeza cuneata in grasslands using commercial small satellite imagery. International Journal of Remote Sensing, 44(21), 6802-6824. [10.1080/01431161.2023.2275321](10.1080/01431161.2023.2275321)
 * Barros, V.D.D., Waltner, I., Rakotoarivony, N.A.M., Halupka, G., Sándor, R., Kaldybayeva, D., Gelybó, G. (2022). SpatialAquaCrop, an R Package for Raster-Based Implementation of the AquaCrop Model. Plants 11, 2907. [https://doi.org/10.3390/plants11212907](https://doi.org/10.3390/plants11212907).
 
 Conference presentations
