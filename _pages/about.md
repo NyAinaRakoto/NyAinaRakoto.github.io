@@ -24,7 +24,7 @@ I speak Malagasy, French, and English fluently. If you want to practice any of t
 
 I am always open to collaborations and/or just discussions, related to research or just general experiences, so please feel free to reach out to me at ny_aina.rakotoarivony@okstate.edu
 
-![An example of a species of lemur in the Northern part of Madagascar (*Eulemur coronatus*) ](https://NyAinaRakoto.github.io/Lemur.JPG)
+![An example of a species of lemur in the Northern part of Madagascar (*Eulemur coronatus*)](https://NyAinaRakoto.github.io/images/Lemur.JPG)
 
 ![Baobab trees in Morondava, Madagascar](https://NyAinaRakoto.github.io/images/Baobab.JPG)
 
