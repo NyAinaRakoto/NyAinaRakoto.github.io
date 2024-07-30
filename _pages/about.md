@@ -26,8 +26,7 @@ I am always open to collaborations and/or just discussions, related to research 
 
 
 ![An example of a species of lemur in the Northern part of Madagascar (*Eulemur coronatus*)](https://NyAinaRakoto.github.io/Lemur.JPG)
-
+An example of a species of lemur in the Northern part of Madagascar (*Eulemur coronatus*) (c) Rindra 
 ![Baobab trees in Morondava, Madagascar](https://NyAinaRakoto.github.io/images/Baobab.JPG)
-
-
+Baobab trees in Morondava, Madagascar 
 
