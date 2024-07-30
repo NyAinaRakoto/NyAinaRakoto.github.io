@@ -21,12 +21,7 @@ My current research project involves leveraging remote sensing techniques to add
 
 
 
-
-
-
-                                                             **A little bit about me**
-
-                                                             
+#A little bit about me
 
 - I am from Madagascar, the fourth largest island on earth, located in the South Eastern Africa. You've probably heard it from the "Madagascar movie"! And no, there is no lion nor penguins in Madagascar; but we do have lots of lemur species, such as "King Julien," also known as *Lemur catta* (Maki). One thing you may have known Madagascar for is also the big baobab trees; they are incredible!!
 - I love to travel, try new foods, meet new people, and discover new places. 
