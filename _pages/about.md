@@ -15,6 +15,7 @@ I am Ny Aina, a Ph.D. candidate in Geography at Oklahoma State University, worki
 My current research project involves leveraging remote sensing techniques to address the challenges posed by invasive grassland plants. I am currently focusing on using remote sensing, particularly imaging spectroscopy, coupled with in situ observations and modeling to assess invasive plants and their impacts on grassland ecosystems, including aboveground and belowground. My research aims to contribute to understanding how remote sensing can be used in invasive species studies beyond mapping their presence in the ecosystem. My research can also contribute to providing actionable information for managing invasive plants and maintaining ecosystem functioning and biodiversity. 
 
 ![The Joseph H. Williams Tallgrass Prairie Preserve, Osage County, Oklahoma, United States](https://NyAinaRakoto.github.io/images/TGPP.jpg)
+                     
                      The Joseph H. Williams Tallgrass Prairie Preserve, Osage County, Oklahoma, United States 
 
 
@@ -32,5 +33,6 @@ My current research project involves leveraging remote sensing techniques to add
 I am always open to collaborations and/or just discussions, related to research or just general experiences, so please feel free to reach out to me at ny_aina.rakotoarivony@okstate.edu
 
 ![Baobab trees in Morondava, Madagascar](https://NyAinaRakoto.github.io/images/Baobab.JPG)
+                      
                       Avenue of the Baobabs in Morondava, Madagascar
 
