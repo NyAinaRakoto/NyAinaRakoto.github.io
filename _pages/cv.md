@@ -9,19 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Agronomy Engineering, Forestry and Environment - Ecole Superieure des Sciences Agronomiques, Madagascar, 2016
-* Master 2 in Agronomy Engineering, Environment-Territory and Development - Ecole Superieure des Sciences Agronomiques, Madagascar, 2018
-* M.Sc. in Environmental Engineering, Soil and Water Conservation - Szent Istvan University, Hungary, 2020
-* Ph.D in Geography, Remote sensing - Oklahoma State University, Stillwater, Oklahoma, present 
+# Education
+
+Before starting my Ph.D. in Geography, focusing on Remote Sensing at [Oklahoma State University, Stillwater, United States](https://go.okstate.edu/), I graduated with a Master's degree in Agronomy Engineering, specializing in Environment, Territory, and Development from the [Ecole Superieure des Sciences Agronomiques, Madagascar](https://essaforets.wordpress.com/). After my master's in Madagascar, I also graduated with a Master's degree in Environmental Engineering, specialized in Soil and Water Conservation at the [Szent Istvan University, Hungary](https://en.uni-mate.hu/) with the [FAO Scholarship](https://www.fao.org/europe/news/detail/FAO---Hungarian-Government-Scholarship-2018-2019---Introduction-and-procedures/en).
 
   
-Service and leadership
-======
-* IkalaSTEM Chapter America, 2021-present
-* IkalaSTEM Chapter Europe, 2019-2021
-* Stipendium Hungaricum Mentorship Program, 2019-2020
-* Malagasy Youth Biodiversity Network, 2016-2021
-* Teach for Madagascar, 2017-2018
+# Service and leadership
+
+Throughout my journey, I have been involved in different activities to give back to the communities. For example, I am a permanent member of [IkalaSTEM](https://www.ikalastem.org/) Chapter America, to empower the next generation of women in STEM in Madagascar. While in Europe, I was a member of IkalaSTEM Chapter Europe. While studying at Szent Istvan University, I was a mentor with the [Stipendium Hungaricum Mentorship Program](https://shmentor.hu/), helping new comers students in their integration in the university. While in Madagascar, I was an active member of [Malagasy Youth Biodiversity Network](https://gybninfo.wordpress.com/national-chapters/malagasy-youth-biodiversity-network/), leading different project to raise awareness on the loss of biodiversity. Activites included teaching elementary school students to plant trees. I was also a leader at [Teach for Madagascar](https://teach4madagascar.wordpress.com/), involved in different activities, such as teaching illiterate children. 
 
