@@ -17,14 +17,14 @@ My current research project involves leveraging remote sensing techniques to add
 
 **A little bit about me**
 
-I am from Madagascar, the fourth largest island on earth, located in the South Eastern Africa. You've probably heard it from the "Madagascar movie"! And no, there is no lion nor penguins in Madagascar; but we do have lots of lemur species, such as "King Julien," also known as Lemur catta (Maki). One thing you may have known Madagascar for is also the big baobab trees; they are incredible!!
+I am from Madagascar, the fourth largest island on earth, located in the South Eastern Africa. You've probably heard it from the "Madagascar movie"! And no, there is no lion nor penguins in Madagascar; but we do have lots of lemur species, such as "King Julien," also known as *Lemur catta* (Maki). One thing you may have known Madagascar for is also the big baobab trees; they are incredible!!
 I love to travel, try new foods, meet new people, and discover new places. 
 I also love to read different variety of books; I am always open to suggestions. 
 I speak Malagasy, French, and English fluently. If you want to practice any of these languages with me, you are welcome to send me a text. 
 
 I am always open to collaborations and/or just discussions, related to research or just general experiences, so please feel free to reach out to me at ny_aina.rakotoarivony@okstate.edu
 
-![An example of a species of lemur in the Northern part of Madagascar](https://NyAinaRakoto.github.io/images/Lemur.JPG)
+![An example of a species of lemur in the Northern part of Madagascar (*Eulemur coronatus*) ](https://NyAinaRakoto.github.io/Lemur.JPG)
 
 ![Baobab trees in Morondava, Madagascar](https://NyAinaRakoto.github.io/images/Baobab.JPG)
 
