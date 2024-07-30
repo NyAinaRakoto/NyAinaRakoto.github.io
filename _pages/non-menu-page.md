@@ -8,6 +8,7 @@ redirect_from:
   - "/nmp.html"
 ---
 
+
 # Grants
 - NASA FINESST 2024 [Tips for FINESST application](https://michaelradke.com/posts/finesst-tips/)
 - Nebraska Chapter’s J.E. Weaver Competitive Grants Program, 2023 [J.E. Weaver Small Grants](https://www.nature.org/en-us/newsroom/2023-je-weaver-small-grants-awarded/)
