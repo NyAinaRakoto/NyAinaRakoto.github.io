@@ -1,1 +1,1 @@
-This webpage has the details about M. Ny Aina Rakotoarivony's research interests and background. This is a Ny Aina's webpage from a Github Pages template for academic websites. This was forked (then detached) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). 
+This webpage has the details about M. Ny Aina Rakotoarivony's research interests and background.
