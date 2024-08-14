@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "News"
-    url: /talks/    
+    url: /non-menu-page/    
 
   - title: "Research"
-    url: /teaching/    
+    url: /terms/    
   
   - title: "CV"
     url: /cv/
