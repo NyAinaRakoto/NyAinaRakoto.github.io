@@ -1,6 +1,7 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "Research"
 modified: 2016-06-06
 ---
 
+This page is under construction
