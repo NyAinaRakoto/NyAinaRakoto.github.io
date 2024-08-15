@@ -6,7 +6,7 @@
 
 main:
   - title: "Background"
-    url: /publications/
+    url: /archive-layout-with-content/
 
   - title: "News"
     url: /non-menu-page/    
@@ -18,5 +18,5 @@ main:
     url: /cv/
     
   - title: "Grants"
-    url: /markdown/
+    url: /sitemap/
   
