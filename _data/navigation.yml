@@ -4,14 +4,8 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 main:
-  - title: "Background"
-    url: /sitemap/
-
   - title: "Updates"
     url: /non-menu-page/      
-    
-  - title: "Research and Teaching"
-    url: /terms/
     
   - title: "CV"
     url: /cv/
