@@ -5,16 +5,13 @@
 # prevent it from being included in the site.
 main:
   - title: "Background"
-    url: /publications/
+    url: /sitemap/
 
   - title: "Updates"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+    url: /non-menu-page/      
     
-  - title: "Research"
-    url: /portfolio/
+  - title: "Research and Teaching"
+    url: /terms/
     
   - title: "CV"
     url: /cv/
