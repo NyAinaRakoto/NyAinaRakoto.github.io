@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-This page is under construction
+Check out my cv [here] (files/Rakotoarivony_CV2024.pdf).
