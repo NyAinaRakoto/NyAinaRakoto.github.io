@@ -21,11 +21,11 @@ repository               : "NyAinaRakoto/NyAinaRakoto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "230817_ny_aina_rakotoarivony_002.jpg"
   name             : "M. Ny Aina Rakotoarivony"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I am a Ph.D. candidate in the Department of Geography working on using imaging spectroscopy to study invasive plants"
+  location         : #"Earth"
   employer         : "Oklahoma State University"
   uri              : # URL
   email            : "ny_aina.rakotoarivony@okstate.edu" 
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
