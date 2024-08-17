@@ -7,8 +7,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
-- Gholizadeh, H., Rakotoarivony, M. N. A., Hassani, K., Johnson, K. G., Hamilton, R. G., Fuhlendorf, S. D., Schneider, F. D., & Bachelot, B. (2024). Advancing our understanding of plant diversity-biological invasion relationships using imaging spectroscopy. Remote Sensing of Environment, 304, 114028. https://doi.org/10.1016/j.rse.2024.114028.
-- Rakotoarivony, M. N. A., Gholizadeh, H., Hammond, W. M., Hassani, K., Joshi, O., Hamilton, R. G., Fuhlendorf, S. D., Trowbridge, A. M., & Adams, H. D. (2023). Detecting the invasive Lespedeza cuneata in grasslands using commercial small satellite imagery. International Journal of Remote Sensing, 44(21), 6802–6824. https://doi.org/10.1080/01431161.2023.2275321.
+- Gholizadeh, H., Rakotoarivony, M. N. A., Hassani, K., Johnson, K. G., Hamilton, R. G., Fuhlendorf, S. D., Schneider, F. D., & Bachelot, B. (2024). Advancing our understanding of plant diversity-biological invasion relationships using imaging spectroscopy. Remote Sensing of Environment, 304, 114028. [https://doi.org/10.1016/j.rse.2024.114028](https://doi.org/10.1016/j.rse.2024.114028).
+- Rakotoarivony, M. N. A., Gholizadeh, H., Hammond, W. M., Hassani, K., Joshi, O., Hamilton, R. G., Fuhlendorf, S. D., Trowbridge, A. M., & Adams, H. D. (2023). Detecting the invasive Lespedeza cuneata in grasslands using commercial small satellite imagery. International Journal of Remote Sensing, 44(21), 6802–6824. [https://doi.org/10.1080/01431161.2023.2275321](https://doi.org/10.1080/01431161.2023.2275321).
 
 ## Conference presentations
 - Rakotoarivony, M. N. A., Hassani, K., Kamaraj, N.P., Hamilton, R.G., Fuhlendorf, S. D., Bachelot, B., Gholizadeh, H. (2024). “Using imaging spectroscopy to assess the impacts of invasive plants on aboveground and belowground properties and productivity,”  International Association for Landscape Ecology – North American Regional Chapter (IALE), April 1–5, Oklahoma City, Oklahoma, US.
