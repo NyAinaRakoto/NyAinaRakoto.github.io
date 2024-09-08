@@ -6,7 +6,7 @@ redirect_from:
   - "/nmp/"
   - "/nmp.html"
 ---
-
+- Rakotoarivony, M. N. A., Gholizadeh, H., Hassani, K., McMahan, S., Struble, E., Fuhlendorf, S., Hamilton, R., & Bachelot, B. (2024). Using imaging spectroscopy to assess the impacts of invasive plants on aboveground and belowground characteristics. GIScience & Remote Sensing, 61(1). [https://doi.org/10.1080/15481603.2024.2399388](https://doi.org/10.1080/15481603.2024.2399388).
 - Gholizadeh, H., Rakotoarivony, M. N. A., Hassani, K., Johnson, K. G., Hamilton, R. G., Fuhlendorf, S. D., Schneider, F. D., & Bachelot, B. (2024). Advancing our understanding of plant diversity-biological invasion relationships using imaging spectroscopy. Remote Sensing of Environment, 304, 114028. [https://doi.org/10.1016/j.rse.2024.114028](https://doi.org/10.1016/j.rse.2024.114028).
 - Rakotoarivony, M. N. A., Gholizadeh, H., Hammond, W. M., Hassani, K., Joshi, O., Hamilton, R. G., Fuhlendorf, S. D., Trowbridge, A. M., & Adams, H. D. (2023). Detecting the invasive Lespedeza cuneata in grasslands using commercial small satellite imagery. International Journal of Remote Sensing, 44(21), 6802–6824. [https://doi.org/10.1080/01431161.2023.2275321](https://doi.org/10.1080/01431161.2023.2275321).
 
