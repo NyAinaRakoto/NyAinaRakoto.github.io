@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Check out my cv [here](https://nyainarakoto.github.io/files/Rakotoarivony_CV2025.pdf). 
+Check out my cv [here](https://nyainarakoto.github.io/files/Rakotoarivony_2025.pdf). 
