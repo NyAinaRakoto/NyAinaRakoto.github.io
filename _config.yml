@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "M. Ny Aina Rakotoarivony/ Ph.D. candidate"
+title                    : "M. Ny Aina Rakotoarivony/ Ph.D."
 title_separator          : "-"
 name                     : &name "Ny Aina"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "230817_ny_aina_rakotoarivony_002.jpg"
   name             : "M. Ny Aina Rakotoarivony"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. candidate - Remote sensing - Imaging spectroscopy - Invasive plants - Grasslands"
+  bio              : "Ph.D., Remote sensing, Imaging spectroscopy, Invasive plants, Grasslands"
   location         : #"Earth"
   employer         : "Oklahoma State University"
   uri              : # URL
