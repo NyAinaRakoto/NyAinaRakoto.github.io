@@ -16,7 +16,7 @@ Here are few sites that helped me understand more about FINESST:
 
 [FINESST Tips & Tricks by Michael J. Radke](https://michaelradke.com/posts/finesst-tips/)
 
-## My works are featured here
+## My works are featured below
 - [USGS News 2026](https://www.usgs.gov/programs/climate-adaptation-science-centers/news/detecting-a-grassland-invader-above-and-below)
 - [CONNECT CAS 2025 - page 19](https://casinfo.okstate.edu/images/ePubs/CONNECT2025/20/index.html)
 - [CAS NEWS 2024](https://news.okstate.edu/articles/arts-sciences/2024/geography_phd_student_receives_nasa_finesst_award)
